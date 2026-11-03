@@ -1,8 +1,9 @@
 body {
-    margin: 30;
-    background-color: lightblue
+    margin: 30px;
+    background-color: lightblue;
 }
 
 button {
-    background-color: black
+    background-color: black;
+    color: white;
 }
