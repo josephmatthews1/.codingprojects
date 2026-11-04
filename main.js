@@ -20,4 +20,5 @@ function generatePassword() {
 
 function copyPassword(button) {
     navigator.clipboard.writeText(button.textContent);
+    alert("Password copied to clipboard: " + button.textContent);
 }
