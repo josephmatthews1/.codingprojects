@@ -3,12 +3,19 @@ body {
     background-color: #99ccff;
     color: #333333;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 
+
+}
+
+main {
+   max-width: 500px;
+   margin: 80px auto; 
 }
 
 button {
     background-color: #0000cc; 
-    color: #333333;
+    color: #ffffff;
     font-family: inherit;
 
 }
