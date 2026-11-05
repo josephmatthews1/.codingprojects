@@ -16,3 +16,12 @@ button {
     color: #ffffff;
     font-family: inherit;
 }
+
+#bothPasswords {
+    width: 120px;
+    height: 60px;  
+    margin: 10px 30px;
+    padding: 20px 30px;
+    border: 1px solid #000000;
+    border-radius: 35%;
+}
